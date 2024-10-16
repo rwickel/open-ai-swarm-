@@ -1,6 +1,6 @@
-# Open Ai Swarm multi agent framework (Ollama)
+# EXAMPLE: Open Ai Swarm multi agent framework (Ollama)
 
-Reviewed the Open Ai Swarm educational framework exploring ergonomic, lightweight multi-agent system.
+Example of the Open Ai Swarm educational framework.
 
 ## Changes
 - Adapted to Ollama usage
