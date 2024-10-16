@@ -92,20 +92,20 @@ With the setup described above, we achieve the following workflow.
 ## Example
 supervisor route to researcher agent:
 
-![Swarm Logo](assets/researcher.png)
+![Swarm Logo](assets/researcher.PNG)
 
 researcher route to coder agent:
 
-![Swarm Logo](assets/coder.png)
+![Swarm Logo](assets/coder.PNG)
 
 back to researcher again:
 
-![Swarm Logo](assets/switching.png)
+![Swarm Logo](assets/switching.PNG)
 
 ## Example
 Sometimes, the request is not routed to the related agent; additional user input is required.
 
-![Swarm Logo](assets/temperature.png)
+![Swarm Logo](assets/temperature.PNG)
 
 # Conclusion
 
