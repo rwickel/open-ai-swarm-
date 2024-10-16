@@ -74,7 +74,7 @@ Supervisor: Hello! How can I assist you today?
 # Ollama Setup
 Following changes are made to connect to local Ollama server:
 
-![Swarm Logo](assets/ollama.png)
+![Swarm Logo](assets/ollama.PNG)
 
 # WorkFlow
 With the setup described above, we achieve the following workflow.
