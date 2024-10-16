@@ -2,9 +2,10 @@ from googlesearch import search
 from datetime import datetime
 import pytz
 import json
-import wikipediaapi
 import io
 import contextlib
+
+context_variables = {"name": "James", "user_id": 123}
 
 def execute_python_code(input: str) -> str:
     """

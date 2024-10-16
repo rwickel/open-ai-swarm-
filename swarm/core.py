@@ -17,7 +17,7 @@ from .types import (
     Response,
     Result,
 )
-from .base import Base
+
 
 __CTX_VARS_NAME__ = "context_variables"
 
