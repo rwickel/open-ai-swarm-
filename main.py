@@ -40,4 +40,4 @@ research_agent = Agent(
 )
 
 if __name__ == "__main__":    
-    run_demo_loop(supervisor, stream=False, context_variables=context_variables, debug=False) # make sure stream is false for tool usage 
+    run_demo_loop(supervisor, stream=False, context_variables=context_variables, debug=True) # make sure stream is false for tool usage 

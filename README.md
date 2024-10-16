@@ -74,7 +74,7 @@ Supervisor: Hello! How can I assist you today?
 # Ollama Setup
 Following changes are made to connect to local Ollama server:
 
-![Swarm Logo](assets/ollama.PNG)
+![Swarm Logo](assets/ollama.png)
 
 # WorkFlow
 With the setup described above, we achieve the following workflow.
@@ -82,20 +82,20 @@ With the setup described above, we achieve the following workflow.
 ## Example
 supervisor route to researcher agent:
 
-![Swarm Logo](assets/researcher.PNG)
+![Swarm Logo](assets/researcher.png)
 
 researcher route to coder agent:
 
-![Swarm Logo](assets/coder.PNG)
+![Swarm Logo](assets/coder.png)
 
 back to researcher again:
 
-![Swarm Logo](assets/switching.PNG)
+![Swarm Logo](assets/switching.png)
 
 ## Example
 Sometimes, the request is not routed to the related agent; additional user input is required.
 
-![Swarm Logo](assets/temperature.PNG)
+![Swarm Logo](assets/temperature.png)
 
 
 
